@@ -17,12 +17,6 @@ class ViewController: UIViewController {
     
     var totalTime = 0
     var secondsPassed = 0
-    
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
 
     @IBAction func hardnessSelected(_ sender: UIButton) {
